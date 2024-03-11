@@ -1,0 +1,36 @@
+[0m[[0m[0mdebug[0m] [0m[0mCreated transactional ClassFileManager with tempDir = C:\CSYE7200\CSYE7200-HW5\assignment-functional-composition\target\scala-2.13\test-classes.bak[0m
+[0m[[0m[0mdebug[0m] [0m[0mAbout to delete class files:[0m
+[0m[[0m[0mdebug[0m] [0m[0mWe backup class files:[0m
+[0m[[0m[0mdebug[0m] [0m[0mCreated transactional ClassFileManager with tempDir = C:\CSYE7200\CSYE7200-HW5\assignment-functional-composition\target\scala-2.13\test-classes.bak[0m
+[0m[[0m[0mdebug[0m] [0m[0mAbout to delete class files:[0m
+[0m[[0m[0mdebug[0m] [0m[0mWe backup class files:[0m
+[0m[[0m[0mdebug[0m] [0m[0mRegistering generated classes:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	MovieSpec$$anonfun$$nestedInanonfun$new$1$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	MovieSpec$$anonfun$$nestedInanonfun$new$8$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	MovieSpec$$anonfun$$nestedInanonfun$new$6$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	MovieSpec$$anonfun$$nestedInanonfun$new$3$4.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	FunctionSpec$$anonfun$$nestedInanonfun$new$25$2.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	MovieSpec$$anonfun$$nestedInanonfun$new$3$2.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	MovieSpec$$anonfun$$nestedInanonfun$new$10$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	FunctionSpec$$anonfun$$nestedInanonfun$new$5$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	MovieSpec$$anonfun$$nestedInanonfun$new$7$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	FunctionSpec$$anonfun$$nestedInanonfun$new$25$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	MovieSpec$$anonfun$$nestedInanonfun$new$5$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	MovieSpec$$anonfun$$nestedInanonfun$new$3$3.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	FunctionSpec.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	MovieSpec$$anonfun$$nestedInanonfun$new$14$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	MovieSpec$$anonfun$$nestedInanonfun$new$15$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	MovieSpec$$anonfun$$nestedInanonfun$new$2$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	MovieSpec$$anonfun$$nestedInanonfun$new$12$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	FunctionSpec$$anonfun$$nestedInanonfun$new$1$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	MovieSpec$$anonfun$$nestedInanonfun$new$4$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	MovieSpec.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	MovieSpec$$anonfun$$nestedInanonfun$new$1$3.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	MovieSpec$$anonfun$$nestedInanonfun$new$9$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	MovieSpec$$anonfun$$nestedInanonfun$new$3$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	FunctionSpec$$anonfun$$nestedInanonfun$new$9$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	MovieSpec$$anonfun$$nestedInanonfun$new$1$4.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	MovieSpec$$anonfun$$nestedInanonfun$new$1$2.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	FunctionSpec$$anonfun$$nestedInanonfun$new$17$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	MovieSpec$$anonfun$$nestedInanonfun$new$11$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0mRemoving the temporary directory used for backing up class files: C:\CSYE7200\CSYE7200-HW5\assignment-functional-composition\target\scala-2.13\test-classes.bak[0m

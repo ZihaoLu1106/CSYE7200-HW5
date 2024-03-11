@@ -1,0 +1,4 @@
+[0m[[0m[33mwarn[0m] [0m[0mC:\CSYE7200\CSYE7200-HW5\assignment-functional-composition\src\main\scala\edu\neu\coe\csye7200\asstfc\Movie.scala:107:70: Reference to uninitialized value ratingFormat[0m
+[0m[[0m[33mwarn[0m] [0m[0m    implicit val reviewsFormat: RootJsonFormat[Reviews] = jsonFormat7(Reviews.apply)[0m
+[0m[[0m[33mwarn[0m] [0m[0m                                                                     ^[0m
+[0m[[0m[33mwarn[0m] [0m[0mone warning found[0m
